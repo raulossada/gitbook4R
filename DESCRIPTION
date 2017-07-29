@@ -1,0 +1,14 @@
+Package: gitbook4R
+Type: Package
+Title: Create GitBooks using RMarkdown using R
+Version: 0.1.0
+Date: 2017-07-29
+Author: Raul Ossada <raulossada@gmail.com>
+Maintainer: Raul Ossada <raulossada@gmail.com>
+Description: R package to develop GitBooks using RMarkdown using 
+    RStudio in Windows.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat

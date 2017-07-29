@@ -22,5 +22,6 @@ installGitBookVersion <- function(version="2.6.4"){
   # Pass the call to the system
   system2(command="gitbook", args=myArgs);
 
+  # Informs the user that the installation of the requested package ended
   message("Instalation finished");
 }
